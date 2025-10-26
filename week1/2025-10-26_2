@@ -1,0 +1,17 @@
+@seongmin0302 ➜ /var/log $ history
+    1  history
+    2  cd /var/log
+    3  ls
+    4  ls -al
+    5  cat dpkg.log
+    6  cat dpkg.log 
+    7  head dpkg.log 
+    8  head -n 3 dpkg.log 
+    9  head -n 6 dpkg.log 
+   10  tail dpkg.log 
+   11  head -n 6 dpkg.log 
+   12  tail -n 6 dpkg.log 
+   13  man head
+   14  head --help
+   15  less dpkg.log 
+   16  history
