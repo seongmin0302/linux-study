@@ -1,0 +1,19 @@
+    1  history
+    2  cd /var/log
+    3  ls
+    4  tail dpkg.log 
+    5  grep --help
+    6  grep "unpacked" dpkg.log 
+    7  grep "hello" dpkg.log 
+    8  grep "startup" dpkg.log 
+    9  grep "startup packages configure" dpkg.log 
+   10  grep "2025-07-10 11:41" dpkg.log 
+   11* 
+   12  history
+   13  ls -al
+   14  ls -al | grep "fontconfig.log"
+   15  ls -al | grep "dpkg.log"
+   16  grep "2025-07-10 11:41" dpkg.log | tail
+   17  grep "2025-07-10 11:41" dpkg.log | head
+   18* 
+   19  grep "2025-07-10 11:41" dpkg.log 
