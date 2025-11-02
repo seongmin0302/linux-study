@@ -1,0 +1,17 @@
+    1  find
+    2  find --help
+    3  ls
+    4  cd /
+    5  ls
+    6  cd etc
+    7  ls
+    8  find
+    9  find .
+   10  find /etc -print
+   11  find --help
+   12  find /etc -name "conf" -print
+   13  find /etc -name "*.conf" -print
+   14  find -name "*.conf" -print
+   15  find /etc -name "*.conf" -print
+   16  find | grep "conf"
+   17  history
