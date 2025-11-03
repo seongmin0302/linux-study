@@ -1,0 +1,55 @@
+@seongmin0302 ➜ ~ $ history
+    1  history
+    2  cd ~
+    3  ls
+    4  cd /
+    5  ls
+    6  cd home
+    7  ls
+    8  cd ~
+    9  find > filelist
+   11  ls
+   12  ls -al
+   13  head filelist
+   14  tail filelist 
+   15  find
+   16  tail filelist 
+   17  gzip --help
+   18  gzip filelist 
+   19  ls
+   20  file filelist.gz 
+   21  gunzip filelist.gz 
+   22  ls
+   23  file filelist 
+   24  ls -al
+   25  gzip filelist 
+   26  ls
+   27  file filelist.gz 
+   28  mv filelist.gz test
+   29  ls
+   30  file test 
+   31  mv test filelist.gz
+   32  ls
+   33  tar --help
+   34  ls
+   35  cd java
+   36  ls
+   37  cd ..
+   38  tar -czf test.tar.gz filelist.gz java/
+   39  ls
+   40  ls -al
+   41  file test.tar.gz 
+   42  mkdir testdir
+   43  ls
+   44  cd testdir
+   45  ls
+   46  tar -zxf ../test.tar.gz 
+   47  ls
+   48  history
+   49  cd ..
+   50  ls
+   51  rm -rf testdir/
+   52  ls
+   53  rm filelist.gz test.tar.gz 
+   54  ls
+   55  history
