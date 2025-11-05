@@ -1,0 +1,29 @@
+    1  cd
+    2  ls
+    6  date
+    7  date --help 
+    8  date -u
+    9  date +%y
+   10  date +%Y
+   11  date +%Y-%m-%d
+   12  cal
+   13  cal -y 2025
+   14  cal --help
+   15  cal -A 2
+   16  cal -B 2
+   18  cal -d 2003-03
+   19  ls
+   23  exit
+   25  bash
+   26  exit
+   29  echo hello world
+   30  echo hahahahahhahah
+   31  echo $PWD
+   32  echo $PATH
+   34  notExistOrder
+   35  env
+   36  ls
+   37  which ls
+   38  ls -al /usr/bin/ls
+   40  file /usr/bin/ls
+   41  history
